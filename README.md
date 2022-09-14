@@ -1,4 +1,4 @@
-# A simple counter-App using [React.js](https://reactjs.org)
+# A simple counter-App using [Logify](https://logify.id)
 
 > **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
 
@@ -6,7 +6,7 @@
 
 ## Live URL :-
 
-> [Counter App](https://obscure-waters-60500.herokuapp.com)
+> [Counter App with Logify](https://logify-counter-app.netlify.app/)
 
 **OR your can do the following to run in your local machine**
 
